@@ -27,4 +27,4 @@ $$\mathbf{f_k \approx 0.088128 \times |t_n - t_m|}$$
 
 This work provides a critical empirical link, and the future focus is on the theoretical derivation of the constant $c \approx 0.088128$ from first principles.
 
-[![DOI](https://zenodo.org/badge/1090249857.svg)](https://doi.org/10.5281/zenodo.17533227)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17533227.svg)](https://doi.org/10.5281/zenodo.17533227)
